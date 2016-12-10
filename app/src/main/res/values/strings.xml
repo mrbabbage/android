@@ -1,0 +1,75 @@
+<resources>
+    <!-- branding -->
+    <string name="app_name">TRACKiT</string>
+
+    <!-- toolbar menu -->
+    <string name="today">Today</string>
+    <string name="menu">Menu</string>
+
+    <!-- navigation menu-->
+    <string name="home">Home</string>
+
+    <!-- activities -->
+    <string name="dining">Dining</string>
+    <string name="exercise">Exercise</string>
+    <string name="lecture">Lecture</string>
+    <string name="leisure">Leisure</string>
+    <string name="study">Study</string>
+    <string name="work">Work</string>
+    <string name="select_activity">Select Activity</string>
+    <string-array name="activities">
+        <item>@string/select_activity</item>
+        <item>@string/dining</item>
+        <item>@string/exercise</item>
+        <item>@string/lecture</item>
+        <item>@string/leisure</item>
+        <item>@string/study</item>
+        <item>@string/work</item>
+    </string-array>
+
+    <!-- duration -->
+    <string name="hour1">1 Hour</string>
+    <string name="hour2">2 Hours</string>
+    <string name="hour3">3 Hours</string>
+    <string name="hour4">4 Hours</string>
+    <string name="hour5">5 Hours</string>
+    <string name="hour6">6 Hours</string>
+    <string name="hour7">7 Hours</string>
+    <string name="hour8">8 Hours</string>
+    <string name="hour9">9 Hours</string>
+    <string name="hour10">10 Hours</string>
+    <string name="hour11">11 Hours</string>
+    <string name="hour12">12 Hours</string>
+    <string name="select_hours">Select Hours</string>
+    <string-array name="hours">
+        <item>@string/select_hours</item>
+        <item>@string/hour1</item>
+        <item>@string/hour2</item>
+        <item>@string/hour3</item>
+        <item>@string/hour4</item>
+        <item>@string/hour5</item>
+        <item>@string/hour6</item>
+        <item>@string/hour7</item>
+        <item>@string/hour8</item>
+        <item>@string/hour9</item>
+        <item>@string/hour10</item>
+        <item>@string/hour11</item>
+        <item>@string/hour12</item>
+    </string-array>
+
+    <!-- chart -->
+    <string name="no_data">No Data</string>
+
+    <!-- buttons -->
+    <string name="add_activity">Add Activity</string>
+    <string name="go">Go</string>
+
+    <!-- error messages -->
+    <string name="no_activity_selected">no activity selected</string>
+    <string name="no_hours_selected">no hours selected</string>
+
+    <!-- content descriptions -->
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string name="image_view_description">Image View Description</string>
+</resources>
